@@ -1,0 +1,8 @@
+<template name="foot">
+    <view class="footerview">  
+    <text >@2018 kelvin</text>
+    </view>
+    <view class="footerviewwebsite">  
+    <text style>kelvin.mbioq.com</text>
+    </view>
+</template>
